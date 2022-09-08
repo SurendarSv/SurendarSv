@@ -8,10 +8,10 @@
 
 ### Connect with me
 
-<a href="mailto:botsuren024@gmail.com">
+<a href="mailto:surendar.ec20@bitsathy.ac.in">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/Surendar Sv/">
+<a href="https://www.linkedin.com/in/surendar-sv-a940821bb/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
 </a>
 <a href="https://twitter.com/surendarexe">
