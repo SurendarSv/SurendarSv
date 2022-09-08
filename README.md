@@ -3,7 +3,7 @@
 ### About me
 
 - I'm an undergrad student studying ECE at BIT.
-- I'm interested in DevOps.
+
 
 
 ### Connect with me
@@ -11,7 +11,7 @@
 <a href="mailto:botsuren024@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/SurendarSv/">
+<a href="https://www.linkedin.com/in/Surendar Sv/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
 </a>
 <a href="https://twitter.com/surendarexe">
