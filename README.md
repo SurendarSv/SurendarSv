@@ -1,4 +1,4 @@
-# Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50px" width="50px">, I'm Surendar 
+# Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50px" width="50px">, I'm Surendar 
 
 ### About me
 
