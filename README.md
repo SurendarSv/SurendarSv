@@ -1,8 +1,9 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50px" width="50px">, I'm Surendar 
+# Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50px" width="50px">, I'm Surendar 
 
 ### About me
 
 - I'm an undergrad student studying ECE at BIT.
+
 
 
 
