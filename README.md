@@ -18,3 +18,12 @@
 <a href="https://twitter.com/surendarexe">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
+<nav class="social">
+     <ul>
+        <li>
+          <a href="#"
+             >Linkedin <i class="fa fa-linkedin"></i
+            ></a>
+       </li>
+  </ul>
+ </nav>
