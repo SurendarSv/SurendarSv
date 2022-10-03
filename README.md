@@ -9,7 +9,7 @@
 
 ### Connect with me
 
-<a href="mailto:surendar.ec20@bitsathy.ac.in">
+<a href="mailto:surendar.sv024@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/surendar-sv-a940821bb/">
