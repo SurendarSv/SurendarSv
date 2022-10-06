@@ -18,6 +18,6 @@
 <a href="https://twitter.com/surendarexe">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
-<a href="tel:8680040193">
-   <img align="left" width="26px" src="https://iconape.com/phone-logo-logo-icon-svg-png.html" />
+<a href="tel:+918680040193">
+ 
 </a>
