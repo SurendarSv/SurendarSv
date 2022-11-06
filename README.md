@@ -4,7 +4,7 @@
 
 - I'm an undergrad student studying ECE at BIT.
 - AWS-DEVOPS 
-- OS:WINDOWS / LINUX>UBUNTU/CENTOS/REDHAT
+T
 
 
 
