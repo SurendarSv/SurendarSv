@@ -4,7 +4,7 @@
 
 - I'm an undergrad student studying ECE at BIT.
 - AWS-DEVOPS 
-T
+
 
 
 
@@ -17,8 +17,6 @@ T
 <a href="https://www.linkedin.com/in/surendar-sv-a940821bb/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
 </a>
-<a href="https://twitter.com/surendarexe">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
-</a>
+
 <a href="tel:+918680040193">
 </a>
