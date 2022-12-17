@@ -3,7 +3,7 @@
 ### About me
 
 - I'm an undergrad student studying ECE at BIT.
-- AWS-DEVOPS 
+- AWS-DevOps 
 
 
 
