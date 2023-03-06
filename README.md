@@ -3,7 +3,8 @@
 ### About me
 
 - I'm an undergrad student studying ECE at BIT.
-- AWS-DevOps 
+- Interested in AWS-DevOps 
+
 Tool Set:
 - Operating systems-Linux, Windows
 - Cloud Platforms- AWS
@@ -16,6 +17,8 @@ Tool Set:
 - Monitoring Tools- Splunk
 - Achievements
 - Configuration Management-Ansible
+- Container orchestration- Kubernetes
+- Containerization Tool - Docker
 
 
 
