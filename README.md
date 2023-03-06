@@ -4,7 +4,18 @@
 
 - I'm an undergrad student studying ECE at BIT.
 - AWS-DevOps 
-
+Tool Set:
+- Operating systems-Linux, Windows
+- Cloud Platforms- AWS
+- Version Controller Tools -Git
+- Scripting -YAML
+- Build - Maven
+- Provisioning Tools -Terraform
+- Continuous Integration -Jenkins
+- Application Server- Tomcat, Apache
+- Monitoring Tools- Splunk
+- Achievements
+- Configuration Management-Ansible
 
 
 
