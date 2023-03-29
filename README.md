@@ -11,7 +11,7 @@ Tool Set:
 - Version Controller Tools -Git ****
 - Scripting -YAML ***
 - Build - Maven ****
-- Provisioning Tools -Terraform ****
+- Provisioning Tools / IAC -Terraform ****
 - Continuous Integration -Jenkins ****
 - Application Server- Tomcat, Apache ****
 - Monitoring Tools- Splunk ***
