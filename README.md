@@ -1,6 +1,6 @@
 # Hey<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50px" width="50px">, I'm Surendar 
 # 💫 About Me:
-Student | ECE | 20-24'<br>Aws-DevOps
+Student | ECE | 20-24'<br>Aws-DevOps <br>MAIL: surendar.sv024@gmail.com
 
 
 ## 🌐 Socials:
