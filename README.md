@@ -2,10 +2,7 @@
 # 💫 About Me:
 DevOps Engineer @Movate | <br>AWS - DevOps - Helping engineers build cloud career <br>MAIL: surendar.sv024@gmail.com
 
-
-### ✍️ 
-தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்
-            மெய்வருத்தக் கூலி தரும். 
-
+"தெய்வத்தான் ஆகா தெனினும் முயற்சிதன்
+மெய்வருத்தக் கூலி தரும்." - Kural 619
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
